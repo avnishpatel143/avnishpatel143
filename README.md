@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 🔭 I'm currently working on MERN Stack Development<br>👯‍♂️ I'm looking to collaborate on  open projects<br>🤝 I'm looking for help with Backend Services<br>🌱 I'm currently learning React.Js<br>💬 Ask me about anything web Related<br>🎉 Fun fact
 
