@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avnish Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avnishpatel143&label=Profile%20views&color=0e75b6&style=flat" alt="avnishpatel143" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avnishpatel143" alt="avnishpatel143" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@avnishpatel06" target="blank"><img src="https://img.shields.io/twitter/follow/@avnishpatel06?logo=twitter&style=for-the-badge" alt="@avnishpatel06" /></a> </p>
-
 - 🔭 I’m currently working on [MERN Stack Development](https://avnish0607.netlify.app/)
 
 - 🌱 I’m currently learning **React.Js , Node.Js**
@@ -29,7 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/@avnishpatel06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@avnishpatel06" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avnishpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avnishpatel" height="30" width="40" /></a>
-<a href="https://fb.com/avnish patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avnish patel" height="30" width="40" /></a>
 <a href="https://instagram.com/avnishpatel143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avnishpatel143" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avnishpatel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avnishpatel1" height="30" width="40" /></a>
 </p>
