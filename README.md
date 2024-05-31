@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://avnish0607.netlify.app/](https://avnish0607.netlify.app/)
 
-- 💬 Ask me about **Java Script , and React.Js**
+- 💬 Ask me about **Java Script , and React.Js*
 
 - 📫 How to reach me **avnishpatel855@gmail.com**
 
