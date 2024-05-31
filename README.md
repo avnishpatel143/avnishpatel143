@@ -1,4 +1,4 @@
-![logo](https://github.com/avnishpatel143/avnishpatel143/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.jpg?raw=true)
+![logo](https://github.com/avnishpatel143/avnishpatel143/blob/main/Baner_without_Phone.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Avnish Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
